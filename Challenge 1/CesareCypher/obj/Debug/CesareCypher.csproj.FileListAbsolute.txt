@@ -1,0 +1,12 @@
+/Users/simonecampo/Projects/CesareCypher/CesareCypher/bin/Debug/CesareCypher.exe
+/Users/simonecampo/Projects/CesareCypher/CesareCypher/bin/Debug/CesareCypher.pdb
+/Users/simonecampo/Projects/CesareCypher/CesareCypher/obj/Debug/CesareCypher.csprojAssemblyReference.cache
+/Users/simonecampo/Projects/CesareCypher/CesareCypher/obj/Debug/CesareCypher.csproj.CoreCompileInputs.cache
+/Users/simonecampo/Projects/CesareCypher/CesareCypher/obj/Debug/CesareCypher.exe
+/Users/simonecampo/Projects/CesareCypher/CesareCypher/obj/Debug/CesareCypher.pdb
+/Users/simonecampo/Desktop/Coding/ShowCodes/Challenge 1/CesareCypher/bin/Debug/CesareCypher.exe
+/Users/simonecampo/Desktop/Coding/ShowCodes/Challenge 1/CesareCypher/bin/Debug/CesareCypher.pdb
+/Users/simonecampo/Desktop/Coding/ShowCodes/Challenge 1/CesareCypher/obj/Debug/CesareCypher.csprojAssemblyReference.cache
+/Users/simonecampo/Desktop/Coding/ShowCodes/Challenge 1/CesareCypher/obj/Debug/CesareCypher.csproj.CoreCompileInputs.cache
+/Users/simonecampo/Desktop/Coding/ShowCodes/Challenge 1/CesareCypher/obj/Debug/CesareCypher.exe
+/Users/simonecampo/Desktop/Coding/ShowCodes/Challenge 1/CesareCypher/obj/Debug/CesareCypher.pdb
